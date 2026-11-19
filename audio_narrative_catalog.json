@@ -76,6 +76,54 @@
                 }
               ],
               "filename": "81878499-215c-8444-e153-302176f0dba8"
+            },
+            {
+              "id": "studio_batch_5d2f8389d31c4fe0/track_01_batch_story/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795082950.7147856,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_01_batch_story/26aad2ed-33db-5337-28c7-057e91b48a02.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_01_batch_story/26aad2ed-33db-5337-28c7-057e91b48a02.flac"
+                }
+              ],
+              "filename": "26aad2ed-33db-5337-28c7-057e91b48a02"
+            },
+            {
+              "id": "studio_batch_5d2f8389d31c4fe0/track_01_batch_story/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795082950.7147856,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_01_batch_story/e2fa5f83-0959-ab5e-ed8c-22ea4f959e95.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_01_batch_story/e2fa5f83-0959-ab5e-ed8c-22ea4f959e95.flac"
+                }
+              ],
+              "filename": "e2fa5f83-0959-ab5e-ed8c-22ea4f959e95"
+            },
+            {
+              "id": "studio_batch_5d2f8389d31c4fe0/track_01_batch_story/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795082950.7147856,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_01_batch_story/91c827ab-c833-1264-de6c-4e310b7999a7.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_01_batch_story/91c827ab-c833-1264-de6c-4e310b7999a7.flac"
+                }
+              ],
+              "filename": "91c827ab-c833-1264-de6c-4e310b7999a7"
             }
           ]
         },
@@ -148,6 +196,54 @@
                 }
               ],
               "filename": "d6fcf621-3555-f55f-20f7-8a1d7d93b09d"
+            },
+            {
+              "id": "studio_batch_5d2f8389d31c4fe0/track_02_before_berlin_wakes/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795082950.7147856,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_02_before_berlin_wakes/6eea673f-4301-6e52-aca6-0463e9468cde.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_02_before_berlin_wakes/6eea673f-4301-6e52-aca6-0463e9468cde.flac"
+                }
+              ],
+              "filename": "6eea673f-4301-6e52-aca6-0463e9468cde"
+            },
+            {
+              "id": "studio_batch_5d2f8389d31c4fe0/track_02_before_berlin_wakes/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795082950.7147856,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_02_before_berlin_wakes/84ab9d55-72db-900a-47c3-40f90cc764a3.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_02_before_berlin_wakes/84ab9d55-72db-900a-47c3-40f90cc764a3.flac"
+                }
+              ],
+              "filename": "84ab9d55-72db-900a-47c3-40f90cc764a3"
+            },
+            {
+              "id": "studio_batch_5d2f8389d31c4fe0/track_02_before_berlin_wakes/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795082950.7147856,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_02_before_berlin_wakes/d161ea42-a76e-173c-ed35-4ff26c7e45bd.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_02_before_berlin_wakes/d161ea42-a76e-173c-ed35-4ff26c7e45bd.flac"
+                }
+              ],
+              "filename": "d161ea42-a76e-173c-ed35-4ff26c7e45bd"
             }
           ]
         },
@@ -220,6 +316,54 @@
                 }
               ],
               "filename": "2f4ca349-5fba-8170-19e2-f8efd40d8032"
+            },
+            {
+              "id": "studio_batch_5d2f8389d31c4fe0/track_03_hans_and_the_first_dough/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795082950.7147856,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_03_hans_and_the_first_dough/f7c3bd61-ec1c-cd7b-8f55-581664bf3d8d.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_03_hans_and_the_first_dough/f7c3bd61-ec1c-cd7b-8f55-581664bf3d8d.flac"
+                }
+              ],
+              "filename": "f7c3bd61-ec1c-cd7b-8f55-581664bf3d8d"
+            },
+            {
+              "id": "studio_batch_5d2f8389d31c4fe0/track_03_hans_and_the_first_dough/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795082950.7147856,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_03_hans_and_the_first_dough/b3905aec-cc37-9b1e-5ffa-58273a345797.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_03_hans_and_the_first_dough/b3905aec-cc37-9b1e-5ffa-58273a345797.flac"
+                }
+              ],
+              "filename": "b3905aec-cc37-9b1e-5ffa-58273a345797"
+            },
+            {
+              "id": "studio_batch_5d2f8389d31c4fe0/track_03_hans_and_the_first_dough/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795082950.7147856,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_03_hans_and_the_first_dough/72090f2f-dbe5-38a7-dde8-38cc3674ff16.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_03_hans_and_the_first_dough/72090f2f-dbe5-38a7-dde8-38cc3674ff16.flac"
+                }
+              ],
+              "filename": "72090f2f-dbe5-38a7-dde8-38cc3674ff16"
             }
           ]
         },
@@ -292,6 +436,54 @@
                 }
               ],
               "filename": "ad167bde-f6fe-4e7f-e8ba-a87103fbe73c"
+            },
+            {
+              "id": "studio_batch_5d2f8389d31c4fe0/track_04_the_coal_fired_oven/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795082950.7147856,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_04_the_coal_fired_oven/7fa7ed51-4b62-4cce-3967-1d91a00f428e.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_04_the_coal_fired_oven/7fa7ed51-4b62-4cce-3967-1d91a00f428e.flac"
+                }
+              ],
+              "filename": "7fa7ed51-4b62-4cce-3967-1d91a00f428e"
+            },
+            {
+              "id": "studio_batch_5d2f8389d31c4fe0/track_04_the_coal_fired_oven/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795082950.7147856,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_04_the_coal_fired_oven/0a7fae21-7f83-d170-4823-cb7f6ec9600a.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_04_the_coal_fired_oven/0a7fae21-7f83-d170-4823-cb7f6ec9600a.flac"
+                }
+              ],
+              "filename": "0a7fae21-7f83-d170-4823-cb7f6ec9600a"
+            },
+            {
+              "id": "studio_batch_5d2f8389d31c4fe0/track_04_the_coal_fired_oven/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795082950.7147856,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_04_the_coal_fired_oven/2fbc7270-bb52-ccfb-fcc1-74c8215d8eb6.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_04_the_coal_fired_oven/2fbc7270-bb52-ccfb-fcc1-74c8215d8eb6.flac"
+                }
+              ],
+              "filename": "2fbc7270-bb52-ccfb-fcc1-74c8215d8eb6"
             }
           ]
         },
@@ -364,6 +556,54 @@
                 }
               ],
               "filename": "2bbd54df-4748-b765-3aeb-64a0dedf1e87"
+            },
+            {
+              "id": "studio_batch_5d2f8389d31c4fe0/track_05_schrippen_before_sunrise/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795082950.7147856,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_05_schrippen_before_sunrise/4083a57f-cd28-a18f-44a5-204b9c95d279.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_05_schrippen_before_sunrise/4083a57f-cd28-a18f-44a5-204b9c95d279.flac"
+                }
+              ],
+              "filename": "4083a57f-cd28-a18f-44a5-204b9c95d279"
+            },
+            {
+              "id": "studio_batch_5d2f8389d31c4fe0/track_05_schrippen_before_sunrise/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795082950.7147856,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_05_schrippen_before_sunrise/cb15b4b7-c526-642f-0a4f-5a66ce120171.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_05_schrippen_before_sunrise/cb15b4b7-c526-642f-0a4f-5a66ce120171.flac"
+                }
+              ],
+              "filename": "cb15b4b7-c526-642f-0a4f-5a66ce120171"
+            },
+            {
+              "id": "studio_batch_5d2f8389d31c4fe0/track_05_schrippen_before_sunrise/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795082950.7147856,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_05_schrippen_before_sunrise/def671d0-c334-9042-0540-78de8b111f55.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_05_schrippen_before_sunrise/def671d0-c334-9042-0540-78de8b111f55.flac"
+                }
+              ],
+              "filename": "def671d0-c334-9042-0540-78de8b111f55"
             }
           ]
         },
@@ -436,6 +676,54 @@
                 }
               ],
               "filename": "209e5f5c-e477-6abf-7fa3-980179abab24"
+            },
+            {
+              "id": "studio_batch_5d2f8389d31c4fe0/track_06_rain_on_moabit_cobblestones/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795082950.7147856,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_06_rain_on_moabit_cobblestones/6c2fe4d3-5276-12c5-bf14-a3f075583900.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_06_rain_on_moabit_cobblestones/6c2fe4d3-5276-12c5-bf14-a3f075583900.flac"
+                }
+              ],
+              "filename": "6c2fe4d3-5276-12c5-bf14-a3f075583900"
+            },
+            {
+              "id": "studio_batch_5d2f8389d31c4fe0/track_06_rain_on_moabit_cobblestones/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795082950.7147856,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_06_rain_on_moabit_cobblestones/7bc0e764-7522-3e02-67d4-accb17db1c96.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_06_rain_on_moabit_cobblestones/7bc0e764-7522-3e02-67d4-accb17db1c96.flac"
+                }
+              ],
+              "filename": "7bc0e764-7522-3e02-67d4-accb17db1c96"
+            },
+            {
+              "id": "studio_batch_5d2f8389d31c4fe0/track_06_rain_on_moabit_cobblestones/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795082950.7147856,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_06_rain_on_moabit_cobblestones/22b2519f-8b52-e4cc-42a3-6f17efc81715.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_06_rain_on_moabit_cobblestones/22b2519f-8b52-e4cc-42a3-6f17efc81715.flac"
+                }
+              ],
+              "filename": "22b2519f-8b52-e4cc-42a3-6f17efc81715"
             }
           ]
         },
@@ -508,6 +796,54 @@
                 }
               ],
               "filename": "b1655330-7d82-7f0f-a406-98d8e59aa2a8"
+            },
+            {
+              "id": "studio_batch_5d2f8389d31c4fe0/track_07_the_factory_workers_breakfast/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795082950.7147856,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_07_the_factory_workers_breakfast/d27b8e20-6411-c81a-a1ff-35a2299579d4.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_07_the_factory_workers_breakfast/d27b8e20-6411-c81a-a1ff-35a2299579d4.flac"
+                }
+              ],
+              "filename": "d27b8e20-6411-c81a-a1ff-35a2299579d4"
+            },
+            {
+              "id": "studio_batch_5d2f8389d31c4fe0/track_07_the_factory_workers_breakfast/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795082950.7147856,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_07_the_factory_workers_breakfast/51858b46-a34e-2d5e-fb32-a0b251edb2a3.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_07_the_factory_workers_breakfast/51858b46-a34e-2d5e-fb32-a0b251edb2a3.flac"
+                }
+              ],
+              "filename": "51858b46-a34e-2d5e-fb32-a0b251edb2a3"
+            },
+            {
+              "id": "studio_batch_5d2f8389d31c4fe0/track_07_the_factory_workers_breakfast/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795082950.7147856,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_07_the_factory_workers_breakfast/e0da25b6-0f1e-42fa-af82-11c77a2c378e.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_07_the_factory_workers_breakfast/e0da25b6-0f1e-42fa-af82-11c77a2c378e.flac"
+                }
+              ],
+              "filename": "e0da25b6-0f1e-42fa-af82-11c77a2c378e"
             }
           ]
         },
@@ -580,6 +916,54 @@
                 }
               ],
               "filename": "8e021b4b-f10a-9d77-8f18-67446044e0da"
+            },
+            {
+              "id": "studio_batch_5d2f8389d31c4fe0/track_08_bread_wrapped_in_paper/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795082950.7147856,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_08_bread_wrapped_in_paper/d5e7cb2f-4e0d-83ec-11af-54ce7db4794e.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_08_bread_wrapped_in_paper/d5e7cb2f-4e0d-83ec-11af-54ce7db4794e.flac"
+                }
+              ],
+              "filename": "d5e7cb2f-4e0d-83ec-11af-54ce7db4794e"
+            },
+            {
+              "id": "studio_batch_5d2f8389d31c4fe0/track_08_bread_wrapped_in_paper/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795082950.7147856,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_08_bread_wrapped_in_paper/9ce9fc76-8018-ed22-0108-8641301b3543.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_08_bread_wrapped_in_paper/9ce9fc76-8018-ed22-0108-8641301b3543.flac"
+                }
+              ],
+              "filename": "9ce9fc76-8018-ed22-0108-8641301b3543"
+            },
+            {
+              "id": "studio_batch_5d2f8389d31c4fe0/track_08_bread_wrapped_in_paper/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795082950.7147856,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_08_bread_wrapped_in_paper/1ac283cc-d64e-f602-d1e6-c12c6308a4b1.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_08_bread_wrapped_in_paper/1ac283cc-d64e-f602-d1e6-c12c6308a4b1.flac"
+                }
+              ],
+              "filename": "1ac283cc-d64e-f602-d1e6-c12c6308a4b1"
             }
           ]
         },
@@ -652,6 +1036,54 @@
                 }
               ],
               "filename": "4253ffa7-4696-dc5c-8496-4506969dc69f"
+            },
+            {
+              "id": "studio_batch_5d2f8389d31c4fe0/track_09_voices_behind_the_bakery_door/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795082950.7147856,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_09_voices_behind_the_bakery_door/cda61256-6872-2710-2bb2-cc2fc9ff02fd.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_09_voices_behind_the_bakery_door/cda61256-6872-2710-2bb2-cc2fc9ff02fd.flac"
+                }
+              ],
+              "filename": "cda61256-6872-2710-2bb2-cc2fc9ff02fd"
+            },
+            {
+              "id": "studio_batch_5d2f8389d31c4fe0/track_09_voices_behind_the_bakery_door/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795082950.7147856,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_09_voices_behind_the_bakery_door/ae1c6329-1011-cb66-62e9-1c3ef25969d8.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_09_voices_behind_the_bakery_door/ae1c6329-1011-cb66-62e9-1c3ef25969d8.flac"
+                }
+              ],
+              "filename": "ae1c6329-1011-cb66-62e9-1c3ef25969d8"
+            },
+            {
+              "id": "studio_batch_5d2f8389d31c4fe0/track_09_voices_behind_the_bakery_door/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795082950.7147856,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_09_voices_behind_the_bakery_door/e4e16aa2-8e95-b83c-76e1-721b67997705.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_09_voices_behind_the_bakery_door/e4e16aa2-8e95-b83c-76e1-721b67997705.flac"
+                }
+              ],
+              "filename": "e4e16aa2-8e95-b83c-76e1-721b67997705"
             }
           ]
         },
@@ -724,6 +1156,54 @@
                 }
               ],
               "filename": "ac3d8d40-ae80-cbeb-6d5f-7118d4688088"
+            },
+            {
+              "id": "studio_batch_5d2f8389d31c4fe0/track_10_the_last_crumbs_of_1912/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795082950.7147856,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_10_the_last_crumbs_of_1912/85f75ac3-8a3a-54c8-ec81-10ff0426ecce.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_10_the_last_crumbs_of_1912/85f75ac3-8a3a-54c8-ec81-10ff0426ecce.flac"
+                }
+              ],
+              "filename": "85f75ac3-8a3a-54c8-ec81-10ff0426ecce"
+            },
+            {
+              "id": "studio_batch_5d2f8389d31c4fe0/track_10_the_last_crumbs_of_1912/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795082950.7147856,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_10_the_last_crumbs_of_1912/db304b57-7edd-b58d-6b9c-b9c565e629c3.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_10_the_last_crumbs_of_1912/db304b57-7edd-b58d-6b9c-b9c565e629c3.flac"
+                }
+              ],
+              "filename": "db304b57-7edd-b58d-6b9c-b9c565e629c3"
+            },
+            {
+              "id": "studio_batch_5d2f8389d31c4fe0/track_10_the_last_crumbs_of_1912/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795082950.7147856,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_10_the_last_crumbs_of_1912/cea56fd9-c55f-afb9-672b-8f5e382c0c49.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_5d2f8389d31c4fe0/track_10_the_last_crumbs_of_1912/cea56fd9-c55f-afb9-672b-8f5e382c0c49.flac"
+                }
+              ],
+              "filename": "cea56fd9-c55f-afb9-672b-8f5e382c0c49"
             }
           ]
         }
