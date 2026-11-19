@@ -1,0 +1,573 @@
+{
+  "schema": "mushroom.audio-narrative.catalog",
+  "schema_version": 1,
+  "stories": [
+    {
+      "id": "november_1912_a_bakery_in_moabit",
+      "title": "November 1912 A Bakery In Moabit",
+      "description": "Berlin, November 1912. Before sunrise, in a working-class street near Moabit, Hans the baker is already shaping dough in the warm back room of a small neighbourhood bakery, where a brick oven burns with coal and the flour settles over wooden tables. The shop is run by a baker’s household, supplying nearby factory workers, craftsmen, shop assistants, domestic servants, and families with dark rye loaves, mixed-grain bread, fresh Schrippen, and a few sweet pastries. Beyond the rain-streaked shop window, electric trams rattle through the grey morning, carts pass over wet cobblestones, and workers hurry toward their shifts. Inside, the oven doors creak, bread crusts crack, coins change hands, and warm loaves disappear into paper bags. Hans works among these ordinary sounds, while the woman serving at the counter knows many customers by face and remembers what they usually buy. More than a century later, their voices have vanished, but the little bakery remains imaginable through its bread, warmth, labour, and the rain falling outside its door.",
+      "scenes": [
+        {
+          "id": "november_1912_a_bakery_in_moabit/track_01_batch_story/4dd258abaf330882",
+          "title": "Track 01 Batch Story",
+          "order": 1,
+          "prompt": "Berlin, November 1912. Before sunrise, in a working-class street near Moabit, Hans the baker is already shaping dough in the warm back room of a small neighbourhood bakery, where a brick oven burns with coal and the flour settles over wooden tables. The shop is run by a baker’s household, supplying nearby factory workers, craftsmen, shop assistants, domestic servants, and families with dark rye loaves, mixed-grain bread, fresh Schrippen, and a few sweet pastries. Beyond the rain-streaked shop window, electric trams rattle through the grey morning, carts pass over wet cobblestones, and workers hurry toward their shifts. Inside, the oven doors creak, bread crusts crack, coins change hands, and warm loaves disappear into paper bags. Hans works among these ordinary sounds, while the woman serving at the counter knows many customers by face and remembers what they usually buy. More than a century later, their voices have vanished, but the little bakery remains imaginable through its bread, warmth, labour, and the rain falling outside its door.",
+          "recordings": [
+            {
+              "id": "studio_batch_53deaa87e739480b/track_01_batch_story/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795075319.2012722,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_01_batch_story/747eded3-02ed-b0a7-36c6-b45b6cbf349b.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_01_batch_story/747eded3-02ed-b0a7-36c6-b45b6cbf349b.flac"
+                }
+              ],
+              "filename": "747eded3-02ed-b0a7-36c6-b45b6cbf349b"
+            },
+            {
+              "id": "studio_batch_53deaa87e739480b/track_01_batch_story/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795075319.2012722,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_01_batch_story/d52ad22b-85e2-8740-7df4-7e7e11631de1.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_01_batch_story/d52ad22b-85e2-8740-7df4-7e7e11631de1.flac"
+                }
+              ],
+              "filename": "d52ad22b-85e2-8740-7df4-7e7e11631de1"
+            },
+            {
+              "id": "studio_batch_53deaa87e739480b/track_01_batch_story/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795075319.2012722,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_01_batch_story/57d69b53-7326-2997-ab15-3131a1816797.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_01_batch_story/57d69b53-7326-2997-ab15-3131a1816797.flac"
+                }
+              ],
+              "filename": "57d69b53-7326-2997-ab15-3131a1816797"
+            }
+          ]
+        },
+        {
+          "id": "november_1912_a_bakery_in_moabit/track_02_before_berlin_wakes/cc6a06c1aacec3b2",
+          "title": "Track 02 Before Berlin Wakes",
+          "order": 2,
+          "prompt": "Melancholic instrumental cool jazz, 66 BPM, expressive tenor saxophone, warm upright bass and delicate brushed drums. Slow steady swing, descending minor-key melody, rich seventh harmonies, restrained dynamics, intimate vintage acoustic recording, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_53deaa87e739480b/track_02_before_berlin_wakes/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795075319.2012722,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_02_before_berlin_wakes/0ba84868-b66b-a888-3cbd-0b2aeb5953b6.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_02_before_berlin_wakes/0ba84868-b66b-a888-3cbd-0b2aeb5953b6.flac"
+                }
+              ],
+              "filename": "0ba84868-b66b-a888-3cbd-0b2aeb5953b6"
+            },
+            {
+              "id": "studio_batch_53deaa87e739480b/track_02_before_berlin_wakes/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795075319.2012722,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_02_before_berlin_wakes/846e49d9-955b-63c4-5069-8af01443352c.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_02_before_berlin_wakes/846e49d9-955b-63c4-5069-8af01443352c.flac"
+                }
+              ],
+              "filename": "846e49d9-955b-63c4-5069-8af01443352c"
+            },
+            {
+              "id": "studio_batch_53deaa87e739480b/track_02_before_berlin_wakes/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795075319.2012722,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_02_before_berlin_wakes/2bbca83f-7ccc-6238-d4ab-f557d77b178f.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_02_before_berlin_wakes/2bbca83f-7ccc-6238-d4ab-f557d77b178f.flac"
+                }
+              ],
+              "filename": "2bbca83f-7ccc-6238-d4ab-f557d77b178f"
+            }
+          ]
+        },
+        {
+          "id": "november_1912_a_bakery_in_moabit/track_03_hans_and_the_first_dough/7e02f57305e15865",
+          "title": "Track 03 Hans And The First Dough",
+          "order": 3,
+          "prompt": "Warm instrumental piano trio jazz, 78 BPM, acoustic piano leading with walking upright bass and soft brushed drums. Repeating rhythmic piano figures, gentle blues harmonies, steady measured swing, natural acoustic warmth, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_53deaa87e739480b/track_03_hans_and_the_first_dough/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795075319.2012722,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_03_hans_and_the_first_dough/4ec9faa2-bb1e-8fb9-47ec-19c143fb440b.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_03_hans_and_the_first_dough/4ec9faa2-bb1e-8fb9-47ec-19c143fb440b.flac"
+                }
+              ],
+              "filename": "4ec9faa2-bb1e-8fb9-47ec-19c143fb440b"
+            },
+            {
+              "id": "studio_batch_53deaa87e739480b/track_03_hans_and_the_first_dough/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795075319.2012722,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_03_hans_and_the_first_dough/7bc2c4fe-7e3c-02be-f30d-4aad7a2378ee.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_03_hans_and_the_first_dough/7bc2c4fe-7e3c-02be-f30d-4aad7a2378ee.flac"
+                }
+              ],
+              "filename": "7bc2c4fe-7e3c-02be-f30d-4aad7a2378ee"
+            },
+            {
+              "id": "studio_batch_53deaa87e739480b/track_03_hans_and_the_first_dough/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795075319.2012722,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_03_hans_and_the_first_dough/9139ce38-fb88-f5ae-8d25-5f3402bf4635.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_03_hans_and_the_first_dough/9139ce38-fb88-f5ae-8d25-5f3402bf4635.flac"
+                }
+              ],
+              "filename": "9139ce38-fb88-f5ae-8d25-5f3402bf4635"
+            }
+          ]
+        },
+        {
+          "id": "november_1912_a_bakery_in_moabit/track_04_the_coal_fired_oven/e445a8066a64050f",
+          "title": "Track 04 The Coal Fired Oven",
+          "order": 4,
+          "prompt": "Earthy instrumental blues jazz, 76 BPM, deep tenor saxophone, resonant upright bass, acoustic piano and restrained brushed drums. Strong grounded pulse, low repeating blues motif, warm minor seventh harmonies, gradual dynamic expansion, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_53deaa87e739480b/track_04_the_coal_fired_oven/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795075319.2012722,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_04_the_coal_fired_oven/3c3f4ff8-1e8b-3d96-96d7-85a0b1f68cbb.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_04_the_coal_fired_oven/3c3f4ff8-1e8b-3d96-96d7-85a0b1f68cbb.flac"
+                }
+              ],
+              "filename": "3c3f4ff8-1e8b-3d96-96d7-85a0b1f68cbb"
+            },
+            {
+              "id": "studio_batch_53deaa87e739480b/track_04_the_coal_fired_oven/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795075319.2012722,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_04_the_coal_fired_oven/e12df4fd-9a46-758c-f6d8-ee405bd29aba.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_04_the_coal_fired_oven/e12df4fd-9a46-758c-f6d8-ee405bd29aba.flac"
+                }
+              ],
+              "filename": "e12df4fd-9a46-758c-f6d8-ee405bd29aba"
+            },
+            {
+              "id": "studio_batch_53deaa87e739480b/track_04_the_coal_fired_oven/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795075319.2012722,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_04_the_coal_fired_oven/f795c829-38b4-8dd6-58e2-0c811f4be394.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_04_the_coal_fired_oven/f795c829-38b4-8dd6-58e2-0c811f4be394.flac"
+                }
+              ],
+              "filename": "f795c829-38b4-8dd6-58e2-0c811f4be394"
+            }
+          ]
+        },
+        {
+          "id": "november_1912_a_bakery_in_moabit/track_05_schrippen_before_sunrise/77bcb28a2f631bb5",
+          "title": "Track 05 Schrippen Before Sunrise",
+          "order": 5,
+          "prompt": "Cheerful instrumental vintage swing jazz, 104 BPM, lively clarinet, stride piano, walking double bass and crisp brushed drums. Bright bouncing melody, playful syncopation, clear major-key harmonies, energetic but intimate acoustic sound, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_53deaa87e739480b/track_05_schrippen_before_sunrise/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795075319.2012722,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_05_schrippen_before_sunrise/333b3680-f482-29bd-17e9-b92a8fc54312.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_05_schrippen_before_sunrise/333b3680-f482-29bd-17e9-b92a8fc54312.flac"
+                }
+              ],
+              "filename": "333b3680-f482-29bd-17e9-b92a8fc54312"
+            },
+            {
+              "id": "studio_batch_53deaa87e739480b/track_05_schrippen_before_sunrise/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795075319.2012722,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_05_schrippen_before_sunrise/301bf6f8-6096-7743-3460-407fdf3b09ba.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_05_schrippen_before_sunrise/301bf6f8-6096-7743-3460-407fdf3b09ba.flac"
+                }
+              ],
+              "filename": "301bf6f8-6096-7743-3460-407fdf3b09ba"
+            },
+            {
+              "id": "studio_batch_53deaa87e739480b/track_05_schrippen_before_sunrise/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795075319.2012722,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_05_schrippen_before_sunrise/ba0fe19f-4b0d-1d56-1ed3-6545f72540b4.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_05_schrippen_before_sunrise/ba0fe19f-4b0d-1d56-1ed3-6545f72540b4.flac"
+                }
+              ],
+              "filename": "ba0fe19f-4b0d-1d56-1ed3-6545f72540b4"
+            }
+          ]
+        },
+        {
+          "id": "november_1912_a_bakery_in_moabit/track_06_rain_on_moabit_cobblestones/7c3924a621b2b2d5",
+          "title": "Track 06 Rain On Moabit Cobblestones",
+          "order": 6,
+          "prompt": "Melancholic instrumental jazz waltz, 72 BPM, lyrical tenor saxophone, soft acoustic piano, upright bass and gentle brushed drums. Flowing three-beat rhythm, nostalgic descending melody, rich minor-major harmonies, delicate rainy atmosphere, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_53deaa87e739480b/track_06_rain_on_moabit_cobblestones/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795075319.2012722,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_06_rain_on_moabit_cobblestones/a08cfc4a-a062-be9a-78ec-9ada25e81aa0.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_06_rain_on_moabit_cobblestones/a08cfc4a-a062-be9a-78ec-9ada25e81aa0.flac"
+                }
+              ],
+              "filename": "a08cfc4a-a062-be9a-78ec-9ada25e81aa0"
+            },
+            {
+              "id": "studio_batch_53deaa87e739480b/track_06_rain_on_moabit_cobblestones/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795075319.2012722,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_06_rain_on_moabit_cobblestones/d290d25f-58fd-11fa-1207-8481d3f4e629.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_06_rain_on_moabit_cobblestones/d290d25f-58fd-11fa-1207-8481d3f4e629.flac"
+                }
+              ],
+              "filename": "d290d25f-58fd-11fa-1207-8481d3f4e629"
+            },
+            {
+              "id": "studio_batch_53deaa87e739480b/track_06_rain_on_moabit_cobblestones/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795075319.2012722,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_06_rain_on_moabit_cobblestones/3c8adf53-c286-82c2-105a-a103e6411ac7.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_06_rain_on_moabit_cobblestones/3c8adf53-c286-82c2-105a-a103e6411ac7.flac"
+                }
+              ],
+              "filename": "3c8adf53-c286-82c2-105a-a103e6411ac7"
+            }
+          ]
+        },
+        {
+          "id": "november_1912_a_bakery_in_moabit/track_07_the_factory_workers_breakfast/c27f62f2ff233ccd",
+          "title": "Track 07 The Factory Workers Breakfast",
+          "order": 7,
+          "prompt": "Rhythmic instrumental small-ensemble swing jazz, 112 BPM, expressive trombone, lively clarinet, walking upright bass and steady jazz drums. Confident bouncing groove, short call-and-response melodies, warm blues harmonies, lively urban energy, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_53deaa87e739480b/track_07_the_factory_workers_breakfast/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795075319.2012722,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_07_the_factory_workers_breakfast/da4713c8-c238-d79b-18be-b80519761d85.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_07_the_factory_workers_breakfast/da4713c8-c238-d79b-18be-b80519761d85.flac"
+                }
+              ],
+              "filename": "da4713c8-c238-d79b-18be-b80519761d85"
+            },
+            {
+              "id": "studio_batch_53deaa87e739480b/track_07_the_factory_workers_breakfast/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795075319.2012722,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_07_the_factory_workers_breakfast/5aec6191-8ba8-7a03-e1b7-a8b3d558b684.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_07_the_factory_workers_breakfast/5aec6191-8ba8-7a03-e1b7-a8b3d558b684.flac"
+                }
+              ],
+              "filename": "5aec6191-8ba8-7a03-e1b7-a8b3d558b684"
+            },
+            {
+              "id": "studio_batch_53deaa87e739480b/track_07_the_factory_workers_breakfast/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795075319.2012722,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_07_the_factory_workers_breakfast/0fc1fe15-7fe2-e767-1b3e-7cfd6ca0d4e0.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_07_the_factory_workers_breakfast/0fc1fe15-7fe2-e767-1b3e-7cfd6ca0d4e0.flac"
+                }
+              ],
+              "filename": "0fc1fe15-7fe2-e767-1b3e-7cfd6ca0d4e0"
+            }
+          ]
+        },
+        {
+          "id": "november_1912_a_bakery_in_moabit/track_08_bread_wrapped_in_paper/97221bdc99f2af92",
+          "title": "Track 08 Bread Wrapped In Paper",
+          "order": 8,
+          "prompt": "Tender instrumental chamber jazz, 70 BPM, warm clarinet, delicate acoustic guitar and soft upright bass. Gentle repeating melody, relaxed continuous pulse, intimate major seventh harmonies, restrained dynamics, natural acoustic textures, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_53deaa87e739480b/track_08_bread_wrapped_in_paper/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795075319.2012722,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_08_bread_wrapped_in_paper/d015b834-1905-78c6-b61a-4331430ce514.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_08_bread_wrapped_in_paper/d015b834-1905-78c6-b61a-4331430ce514.flac"
+                }
+              ],
+              "filename": "d015b834-1905-78c6-b61a-4331430ce514"
+            },
+            {
+              "id": "studio_batch_53deaa87e739480b/track_08_bread_wrapped_in_paper/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795075319.2012722,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_08_bread_wrapped_in_paper/777a6b4b-3601-7ccf-9908-88d808170b58.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_08_bread_wrapped_in_paper/777a6b4b-3601-7ccf-9908-88d808170b58.flac"
+                }
+              ],
+              "filename": "777a6b4b-3601-7ccf-9908-88d808170b58"
+            },
+            {
+              "id": "studio_batch_53deaa87e739480b/track_08_bread_wrapped_in_paper/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795075319.2012722,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_08_bread_wrapped_in_paper/978ea846-e629-3a14-cf74-61c90197cf6d.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_08_bread_wrapped_in_paper/978ea846-e629-3a14-cf74-61c90197cf6d.flac"
+                }
+              ],
+              "filename": "978ea846-e629-3a14-cf74-61c90197cf6d"
+            }
+          ]
+        },
+        {
+          "id": "november_1912_a_bakery_in_moabit/track_09_voices_behind_the_bakery_door/ec58d427b93b949d",
+          "title": "Track 09 Voices Behind The Bakery Door",
+          "order": 9,
+          "prompt": "Playful instrumental early swing-inspired jazz, 98 BPM, expressive tenor saxophone, acoustic piano, walking upright bass and light drums. Conversational call-and-response phrases, steady swinging rhythm, subtle chromatic turns, warm lively ensemble interplay, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_53deaa87e739480b/track_09_voices_behind_the_bakery_door/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795075319.2012722,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_09_voices_behind_the_bakery_door/50c776e2-7e8b-65d2-39d7-28d3e77171e8.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_09_voices_behind_the_bakery_door/50c776e2-7e8b-65d2-39d7-28d3e77171e8.flac"
+                }
+              ],
+              "filename": "50c776e2-7e8b-65d2-39d7-28d3e77171e8"
+            },
+            {
+              "id": "studio_batch_53deaa87e739480b/track_09_voices_behind_the_bakery_door/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795075319.2012722,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_09_voices_behind_the_bakery_door/6769f043-3e29-e122-3c0b-5c8738343633.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_09_voices_behind_the_bakery_door/6769f043-3e29-e122-3c0b-5c8738343633.flac"
+                }
+              ],
+              "filename": "6769f043-3e29-e122-3c0b-5c8738343633"
+            },
+            {
+              "id": "studio_batch_53deaa87e739480b/track_09_voices_behind_the_bakery_door/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795075319.2012722,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_09_voices_behind_the_bakery_door/1a43f056-c1ba-0c08-283d-082220a8d6cb.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_09_voices_behind_the_bakery_door/1a43f056-c1ba-0c08-283d-082220a8d6cb.flac"
+                }
+              ],
+              "filename": "1a43f056-c1ba-0c08-283d-082220a8d6cb"
+            }
+          ]
+        },
+        {
+          "id": "november_1912_a_bakery_in_moabit/track_10_the_last_crumbs_of_1912/40acf9a3f9343027",
+          "title": "Track 10 The Last Crumbs Of 1912",
+          "order": 10,
+          "prompt": "Nostalgic instrumental cool jazz, 64 BPM, breathy tenor saxophone, soft acoustic piano, warm upright bass and delicate brushed drums. Slow continuous swing, lyrical returning melody, gentle minor-to-major harmonic movement, bittersweet peaceful resolution, intimate vintage acoustic sound, no vocals.",
+          "recordings": [
+            {
+              "id": "studio_batch_53deaa87e739480b/track_10_the_last_crumbs_of_1912/1",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795075319.2012722,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_10_the_last_crumbs_of_1912/39d6636d-9064-5c62-6876-ca3b9cc371eb.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_10_the_last_crumbs_of_1912/39d6636d-9064-5c62-6876-ca3b9cc371eb.flac"
+                }
+              ],
+              "filename": "39d6636d-9064-5c62-6876-ca3b9cc371eb"
+            },
+            {
+              "id": "studio_batch_53deaa87e739480b/track_10_the_last_crumbs_of_1912/2",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795075319.2012722,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_10_the_last_crumbs_of_1912/6c05856a-ce07-de22-f9f8-f4fb8977fabe.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_10_the_last_crumbs_of_1912/6c05856a-ce07-de22-f9f8-f4fb8977fabe.flac"
+                }
+              ],
+              "filename": "6c05856a-ce07-de22-f9f8-f4fb8977fabe"
+            },
+            {
+              "id": "studio_batch_53deaa87e739480b/track_10_the_last_crumbs_of_1912/3",
+              "model": "ACE-Step 1.5 · Turbo",
+              "timestamp": 1795075319.2012722,
+              "audio": {
+                "format": "flac",
+                "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_10_the_last_crumbs_of_1912/db08fc62-0963-6fab-b11b-84cfbd1a89fb.flac"
+              },
+              "downloads": [
+                {
+                  "format": "flac",
+                  "url": "https://raw.githubusercontent.com/asopozala-prog/mushroom-audio-narrative-library-thursday/main/studio_batch_53deaa87e739480b/track_10_the_last_crumbs_of_1912/db08fc62-0963-6fab-b11b-84cfbd1a89fb.flac"
+                }
+              ],
+              "filename": "db08fc62-0963-6fab-b11b-84cfbd1a89fb"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
